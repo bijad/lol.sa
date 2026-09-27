@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <title>lol</title>
+  <rect width="512" height="512" fill="#fff"/>
+  <g fill="#292b30" transform="translate(6)">
+    <path d="M72 128h44v192c0 18 7 26 24 26h17v40h-24c-40 0-61-22-61-62Z"/>
+    <path fill-rule="evenodd" d="M252 226c-49 0-78 30-78 80s29 80 78 80 78-30 78-80-29-80-78-80Zm0 40c23 0 34 14 34 40s-11 40-34 40-34-14-34-40 11-40 34-40Z"/>
+    <path d="M344 128h44v192c0 18 7 26 24 26h17v40h-24c-40 0-61-22-61-62Z"/>
+  </g>
+</svg>
